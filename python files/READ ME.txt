@@ -46,7 +46,9 @@ List of files
 8. practice08.py
   page 52
   The XOR problem
-    - XOR data problem 
+    - XOR data problem data 생성
+    - matplotlib.pyplot의 scatter 사용(alpha)
+    - matplotlib.pyplot의 colorbar 
 
 9.
 
