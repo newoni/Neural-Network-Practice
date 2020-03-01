@@ -43,7 +43,10 @@ List of files
   Keras Implementation
     - 간단한 Keras 
 
-8.
+8. practice08.py
+  page 52
+  The XOR problem
+    - XOR data problem 
 
 9.
 
