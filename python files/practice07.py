@@ -1,5 +1,5 @@
-# <20.2.28>
-
+# <20.2.28> by KH
+ 
 '''
 49 page
 Keras implementation
