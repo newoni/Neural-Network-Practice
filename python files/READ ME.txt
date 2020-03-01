@@ -38,7 +38,10 @@ List of files
     - keras로 practice05.py 구현
     - sklearn.metrics의 roc_auc_score 사용.
 
-7.
+7. practice07.py
+  page 49
+  Keras Implementation
+    - 간단한 Keras 
 
 8.
 
