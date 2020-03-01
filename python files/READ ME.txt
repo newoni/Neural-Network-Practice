@@ -31,7 +31,12 @@ List of files
     - seaborn.scatterplot 사용
     - 기본 perceptron numpy 구현
 
-6.
+6. practice06.py
+  page 39
+  Implementing perceptron in keras
+    - practice05.py 와 같은 데이터
+    - keras로 practice05.py 구현
+    - sklearn.metrics의 roc_auc_score 사용.
 
 7.
 
