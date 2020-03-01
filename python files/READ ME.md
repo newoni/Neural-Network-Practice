@@ -1,27 +1,23 @@
 List of files
 
 1. practice01.py
-
   page 20
   Feature scaling. 
     - sklearn 모듈의 preprocessing 사용
 
 2. practice02.py
-
   page 21
   Keras Feature engineering 
     - keras 모듈의 ImageDataGenerator 사용
     - 이미지 부풀리기
     
 3. practice03.py
-
   page 23
   Supervised learning algorithms
      - sklearn의 LinearRegreesion 사용
      - sklearndml.metrics의 meansquared_error 사용
 
 4. pratice04.py
-
   page 25
   Evaluating the model
     - sklearn의 train_test_split
@@ -29,7 +25,6 @@ List of files
     - practice03과 다른점. train_test_split 사용. (practice03은 수동으로 나누어줌)
 
 5. practice05.py
-
   page 32
   Implementing a perceptron
     - 
