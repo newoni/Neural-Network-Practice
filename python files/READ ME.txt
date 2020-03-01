@@ -27,7 +27,9 @@ List of files
 5. practice05.py
   page 32
   Implementing a perceptron
-    - 
+    - DataFrame, np.random.randn, pd.concat 으로 가상 데이터 분포 만들기.
+    - seaborn.scatterplot 사용
+    - 기본 perceptron numpy 구현
 
 6.
 
