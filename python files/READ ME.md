@@ -1,6 +1,8 @@
 list of files
 
-1.
+1. practice01.py
+page 20
+Feature scaling. (sklearn preprocessing)
 
 2.
 
