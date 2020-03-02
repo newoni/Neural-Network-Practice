@@ -85,3 +85,9 @@ List of files
     - itertools 활용해서 최적 kernel size, filter 수 선택
     - model.save 활용.
     - system.path.join으로 저장 directory 쉽게 생성
+
+13. practice13.py
+  page 80
+  Keras for expression recognition
+    - csv 파일이 없어서 못 돌려봄.
+    - PIL 모듈 사용 ( 이미지 관련 모듈 )
