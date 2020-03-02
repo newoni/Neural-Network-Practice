@@ -77,3 +77,11 @@ List of files
     - 값을 구분하기 위해서 keras.utils.to_categorical 활용
     - CNN 에서 model.evaluate가 어떤 의미인지 확인해보기
     
+12. practice12.py
+  page 78
+  Nework configuration
+    - mnist 문제
+    - itertools 활용.
+    - itertools 활용해서 최적 kernel size, filter 수 선택
+    - model.save 활용.
+    - system.path.join으로 저장 directory 쉽게 생성
