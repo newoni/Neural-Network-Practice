@@ -50,6 +50,22 @@ List of files
     - matplotlib.pyplot의 scatter 사용(alpha)
     - matplotlib.pyplot의 colorbar 
 
-9.
+9. practice09.py
+  page 54
+  FFNN in python from scratch
+    - practice08.py 와 같은 데이터 생성
+    - 결과물이 만족스럽지 않음.
+    - FFNN class 만들어서 propagation, back propagation 구현
+    - 내 생각에, hidden size가 layer 수가 2개가 아니라, 1개의 hidden layer에 neuron 수가 2개임.
+    - 출력 layer 수도 이상함. (2가 아니라, 1이 맞다고 생각)
+    - 차후 수정 하기.
+    - confusion maxtrix 이용.(from sklearn.metrics import confusion_matrix)
+    - 이외의 metrics로 MSE(mean squared error), AUC(roc auc score) 활용
 
-10.
+10. practice10.py
+  page 58
+   FFNN Keras implementaion
+    - practice08.py와 같은 데이터 생성
+    - 마찬가지로 hidden layer가 하나만 있다고 판단되
+    - Dense를 하나 더 추가하면 결과가 더 만족스러움
+    - MSE 의미를 더 잘 생각해보기, 결과값 출력을 더 깔끔하게 할 수 있는 방법 생각해보기
