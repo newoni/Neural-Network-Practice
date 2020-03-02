@@ -69,3 +69,11 @@ List of files
     - 마찬가지로 hidden layer가 하나만 있다고 판단되
     - Dense를 하나 더 추가하면 결과가 더 만족스러움
     - MSE 의미를 더 잘 생각해보기, 결과값 출력을 더 깔끔하게 할 수 있는 방법 생각해보기
+
+11. practice11.py
+  page 75
+  CNN in Keras
+    - Keras로 CNN 구현 (MNIST) # Modified National Institute of Standards and Technology
+    - 값을 구분하기 위해서 keras.utils.to_categorical 활용
+    - CNN 에서 model.evaluate가 어떤 의미인지 확인해보기
+    
