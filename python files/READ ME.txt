@@ -107,3 +107,10 @@ List of files
     - keras.preprocessing.sequence 의 pad_sequences 사용하여 preprocessing
     - Embedding layer 사용
     - Embedding layer 원리도 알아보기
+
+16. practice16.py
+  page 101
+  Global matrix factorization
+    - SVD(Singular Value Decomposition) 활용
+    - numpy.linalg.svd 사용
+    - 선형대수학 특이 분해 추가로 
