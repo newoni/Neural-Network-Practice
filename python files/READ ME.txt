@@ -113,4 +113,5 @@ List of files
   Global matrix factorization
     - SVD(Singular Value Decomposition) 활용
     - numpy.linalg.svd 사용
-    - 선형대수학 특이 분해 추가로 
+    - 선형대수학 특이값분해 추가로 공부하기
+    - numpy.isclose 함수 활용
