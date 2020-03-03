@@ -91,3 +91,9 @@ List of files
   Keras for expression recognition
     - csv 파일이 없어서 못 돌려봄.
     - PIL 모듈 사용 ( 이미지 관련 모듈 )
+
+14. practice14.py
+  page 91
+  Machine learning for NLP
+    - nltk 라이브러리 소개
+    - nltk.word_tokenize 를 통해서 분리
