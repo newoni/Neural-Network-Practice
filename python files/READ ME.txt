@@ -120,3 +120,9 @@ List of files
   page 106
   Using glove model
     - glove model 사용이지만 import 문제로 실행이 안됨.
+
+18. practice18.py
+  page 107
+  Text classification with GloVe
+    - Text classification 이지만 embeddings_index가 정의되지 않았으므로 실행X
+  
